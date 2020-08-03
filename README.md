@@ -10,6 +10,8 @@
  Campsites can be commented on by any registered and logged in user.
 
  Campsites and comments can only be edited or deleted by the author.
+ 
+ The app features flash flags upon registering,  logging in, logging out, adding a post, adding a comment, or editing either.
 
  This was built as my final project of Colt Steel's "The Web Dev Bootcamp" hosted on Udemy"
 
