@@ -13,3 +13,13 @@
 .delete-form{
 	display: inline;
 }
+
+.list-group-item{
+	transition: background 0.25s;
+}
+
+.list-group-item:hover {
+	background: #7099B4;
+	font-weight: 800;
+}
+
